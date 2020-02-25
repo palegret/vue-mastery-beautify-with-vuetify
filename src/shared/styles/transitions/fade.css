@@ -1,0 +1,30 @@
+/* 'v-' replaced with the name of the transition, 'fade' in this case */
+
+/* enter */
+
+.fade-enter { /* starting style */
+  opacity: 0;
+}
+
+.fade-enter-active { /* active entering style */
+  transition: opacity 2s ease-in; 
+}
+
+.fade-enter-to { /* ending style */
+  opacity: 0;
+}
+
+
+/* leave */
+
+.fade-leave { /* starting style */
+  opacity: 1;
+}
+
+.fade-leave-active { /* active leaving style */
+  transition: opacity 2s ease-out; 
+}
+
+.fade-leave-to { /* ending style */
+  opacity: 0;
+}

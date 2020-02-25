@@ -1,0 +1,72 @@
+[
+	{
+		"id": 12875,
+		"name": "Dwight Schrute",
+    "department": "Sales",
+    "title": "Assistant to the Regional Manager",
+		"salary": 65000
+	},
+	{
+		"id": 14094,
+		"name": "Kelly Kapoor",
+    "department": "Customer Service",
+    "title": "Customer Service Representative",
+		"salary": 40000
+	},
+	{
+		"id": 12894,
+		"name": "Darryl Philbin",
+    "department": "Warehouse",
+    "title": "Warehouse Foreman",
+		"salary": 68000
+	},
+	{
+		"id": 13893,
+		"name": "Angela Martin",
+    "department": "Accounting",
+    "title": "Accountant",
+		"salary": 54000
+	},
+	{
+		"id": 12943,
+		"name": "Phyllis Vance",
+    "department": "Sales",
+    "title": "Saleswoman",
+		"salary": 65000
+	},
+	{
+		"id": 19523,
+		"name": "Karen Filippeli",
+    "department": "Sales",
+    "title": "Saleswoman",
+		"salary": 65000
+	},
+	{
+		"id": 18349,
+		"name": "Toby Flenderson",
+    "department": "Human Resources",
+    "title": "Human Resources Representative",
+		"salary": 60000
+	},
+	{
+		"id": 11853,
+		"name": "Michael Scott",
+    "department": "Sales",
+    "title": "Regional Manager",
+		"salary": 70000
+	},
+	{
+		"id": 14821,
+		"name": "Pam Beasley",
+    "department": "Sales",
+    "title": "Secretary",
+		"salary": 45000
+	},
+	{
+		"id": 15834,
+		"name": "Jim Halpert",
+    "department": "Sales",
+    "title": "Salesman",
+		"salary": 65000
+	}
+]
